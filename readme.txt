@@ -11,3 +11,4 @@ NEW LINE
 >>>>>>> feature2
 Creating a new branch is quick and simple.
 add dev merge
+Git is a free software
